@@ -1,0 +1,4 @@
+DeleteAllProducts.class
+stepDefinitions\E2E.class
+cucumberOptions\TestRunner.class
+Cucumber\Automation\AppTest.class
