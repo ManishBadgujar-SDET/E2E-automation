@@ -9,7 +9,7 @@ public class DeleteAllProducts {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-
+//Invoke browser
 	System.setProperty("webdriver.chrome.driver", "C:\\\\chromedriver94\\\\chromedriver.exe");												
 	WebDriver driver=new ChromeDriver();									
 	ChromeOptions options = new ChromeOptions();								
